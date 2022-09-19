@@ -23,8 +23,8 @@
 
 #### Hobbies
 - :house_with_garden: I like building [miniature landscape and house models](https://www.pinterest.com/ausmints/)
-- :musical_score: Sometimes I write some [music](https://soundcloud.com/j-nis-ausmints-v-tols)
-- :rocket: And you can watch some [flying water towers](https://www.youtube.com/watch?v=mhJRzQsLZGg) together with me
+- :musical_score: Sometimes I write [music](https://soundcloud.com/j-nis-ausmints-v-tols)
+- :rocket: You can watch some [flying water towers](https://www.youtube.com/watch?v=mhJRzQsLZGg) together with me
   
 <br>
 
