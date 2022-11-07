@@ -15,10 +15,10 @@
   </abc>
 </h2>
 
-- :brain: Currently learning Deep Learning and Tensorflow
+- :brain: Currently learning Deep Learning and Pytorch
 - :satellite: Excited about automation and optimization with AI
 - :clock230: Will spend hours to get my graphs *just* right
-- :fountain_pen: Big believer of storytelling in Data Analysis
+- :fountain_pen: Big believer of storytelling in Data Science
 - :ringed_planet: *Space exploration is the future*
 
 #### Hobbies
